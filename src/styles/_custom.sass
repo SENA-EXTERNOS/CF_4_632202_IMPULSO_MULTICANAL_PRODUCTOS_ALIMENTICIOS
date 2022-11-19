@@ -2,13 +2,194 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 30%
+    right: 20%
+    z-index: -1
+    width: 350px
+    max-width: 500px
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 5.5s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 30%
+    right: 20%
+    z-index: -2
+    width: 350px
+    max-width: 500px
+
+.banner-principal__img 
+  width: 33%
+  z-index: 0
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important 
+
+//custom para cajones de colores------------------------- 
+.cajon.color-cajon-1
+    background-color: #ffe9c9
+.cajon.color-cajon-1:before
+    background-color: #fea829
+
+.cajon.color-cajon-2
+    background-color: #c8f1f6
+.cajon.color-cajon-2:before
+    background-color: #26c7db    
+
+.cajon.color-cajon-3
+    background-color: #fddec7
+.cajon.color-cajon-3:before
+    background-color: #f57c22  
+.parrafo-color
+    background-color: #f57c22     
+
+//------------------------------------------------------------        
+
+//custom para Slyder-a-------------
+.slyder-a
+    background-color: #fef1de;
+    position: relative;
+    border-radius: 20px
+
+.slyder-a__tipo-b .slyder-a__btn--atrs, .slyder-a__tipo-b .slyder-a__btn--sigt 
+    background-color: $color-acento-botones
+
+.slyder-a__bullets__item--active 
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    opacity: 1;    
+//----------------------------------------------
+
+//ubicacion interna slyder-a-------------------
+.slyder-margin
+  margin-top: -130px
+@media ( max-width: 500px )
+  .slyder-margin1
+    margin-top: -30px
+    margin-right: 60px  
+  .slyder-margin
+    margin-top: -380px
+    margin-right: 60px
+//------------------------------------------
+
+//custo para linea hr-----------------  
+.linea
+  background-color: #F57C22
+  height: 2px
+//-------------------------------------
+
+//alineación de textos-------------------
+.alineacion-text
+  margin-left: 400px  
+@media ( max-width: 500px )
+  .alineacion-text
+    margin-left: 150px  
+
+.alineacion-text1
+  margin-left: 450px  
+@media ( max-width: 500px )
+  .alineacion-text1
+    margin-left: 110px       
+
+.alineacion-text2
+  margin-left: 330px  
+@media ( max-width: 500px )
+  .alineacion-text2
+    margin-left: 110px  
+
+.alineacion-text3
+  margin-left: 400px  
+@media ( max-width: 500px )
+  .alineacion-text3
+    margin-left: 150px      
+
+.alineacion-text4
+  margin-left: 400px  
+@media ( max-width: 500px )
+  .alineacion-text4
+    margin-left: 90px           
+//--------------------------------------    
+
+//custom bloque texto b-----------    
+.b1.bloque-texto-b:before
+  top: 69%  
+.b2.bloque-texto-b:before
+  top: 50%    
+.b3.bloque-texto-b:before
+  top: 27%  
+.b4.bloque-texto-b:before
+  top: 75%    
+.b5.bloque-texto-b:before
+  top: 65%;
+  right: 55px;  
+.bloque-texto-b.color-secundario1:before
+    background-color: #fde5d2
+//--------------------------------------    
+
+//custom bloque texto g------------------
+@media (max-width: 992px)
+  .bloque-texto-g__texto
+    width: 90%;
+    left: -19px;
+.blq1.bloque-texto-g__texto
+  width: 55%
+.blq1.bloque-texto-g__img
+  width: 60%
+@media ( max-width: 500px )
+  .blq1.bloque-texto-g__texto
+    width: 100%
+    left: 0px;
+  .blq1.bloque-texto-g__img
+    width: 100%    
+
+.blq2.bloque-texto-g__texto
+  width: 55%
+.blq2.bloque-texto-g__img
+  width: 60%
+@media ( max-width: 500px )
+  .blq2.bloque-texto-g__texto
+    width: 95%
+    left: -15px
+  .blq2.bloque-texto-g__img
+    width: 100%    
+    top: -1px  
+//---------------------------------------
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #DFEAF1
+
+.acordion__accion__btn--a
+  background-color: #fed935!important
+
+.acordion__activo
+  background-color: #def7fa !important
+//---------------------------------------------------------------------
+
+//custom lineaTiempoD------------------------------------------
+//color item inactivo
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #fed935 !important
+//color botones inactivos
+.tarjeta--gris 
+  background-color: #fed935   
+//color item activo
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta.tarjeta--gris 
+  background-color: #fff6cc !important 
+//color botones activos
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  background-color: #fff6cc
+//----------------------------------------------------------
+  
+@media (max-width: 412px)
+  .linea-tiempo-d__item__content__title 
+    height: 85px !important 
+//--------------------------------------------------          
+
+//custom imagenes linea tiempo en media
+@media ( max-width: 500px )
+  .ubi
+    margin-left: 60px;
+    margin-top: -10px;    
+//---------------------------------------
 
 
 @keyframes float1

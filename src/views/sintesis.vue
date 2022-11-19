@@ -3,15 +3,15 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p La gestión comercial de productos alimenticios exige cada vez más a las empresas que se concentren en su actividad, buscando garantizar su calidad e idoneidad en el suministro a los mercados donde operan, por lo cual el crecimiento y expansión se basa en delegar ahora la distribución de los productos a terceros, empresas o personas especializadas en este ejercicio, lo que en consecuencia hará que las empresas aumenten su productividad.
+    p.mb-5 En el siguiente esquema se presenta como se organizan los canales de distribución y ventas:
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
