@@ -9,7 +9,7 @@
 
     .row
       .col-lg-5.mb-5.mb-lg-0.mt-3
-        img(src='@/assets/curso/temas/tema1/t1-12.svg', alt='Texto que describa la imagen')      
+        img(src='@/assets/curso/temas/tema3/t3-1.svg', alt='Texto que describa la imagen')      
       .col-lg-7.mb-5.mb-lg-0
         hr.linea.mb-0
         .b4.bloque-texto-b.color-secundario1
