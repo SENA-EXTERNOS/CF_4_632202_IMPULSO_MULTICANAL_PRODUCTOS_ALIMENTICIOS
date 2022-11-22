@@ -25,15 +25,15 @@
             figure
               img(src='@/assets/curso/temas/tema4/t4-2.svg', alt='', style='')
 
-          .tarjeta.color-acento-botones.p-4(x="22%" y="69.5%" numero="+" style='border-radius: 10px; border: solid 4px #26c7db; background-color: #DEF7FA')
+          .tarjeta.color-acento-botones.p-4(x="22%" y="69.2%" numero="+" style='border-radius: 10px; border: solid 4px #26c7db; background-color: #DEF7FA')
             h5.mb-3 Motivación
             p.mb-0 Exaltar los beneficios adicionales a través de la promoción, e incentivar a los distribuidores a hacer parte del proyecto.
 
-          .tarjeta.color-acento-botones.p-4(x="38.3%" y="37%" numero="+" style='border-radius: 10px; border: solid 4px #26c7db; background-color: #DEF7FA')
+          .tarjeta.color-acento-botones.p-4(x="38.2%" y="36.7%" numero="+" style='border-radius: 10px; border: solid 4px #26c7db; background-color: #DEF7FA')
             h5.mb-3 Difusión
             p.mb-0 Dar a conocer, atraer la atención y despertar interés por el producto o beneficio.
 
-          .tarjeta.color-acento-botones.p-4(x="81.5%" y="73%" numero="+" style='border-radius: 10px; border: solid 4px #26c7db; background-color: #DEF7FA')
+          .tarjeta.color-acento-botones.p-4(x="81.4%" y="72.3%" numero="+" style='border-radius: 10px; border: solid 4px #26c7db; background-color: #DEF7FA')
             h5.mb-3 Participación
             p.mb-0 Buscar la toma de decisiones por parte del cliente, y que los distribuidores deseen participar.
 

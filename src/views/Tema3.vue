@@ -94,7 +94,7 @@
     .row.justify-content-center
       .col-lg-8
         LineaTiempoD.color-secundario
-          .row(numero="1" titulo="Intangibilidad").p-4
+          .row(numero="1" titulo="Compra de un bien o producto").p-4
             p Los clientes deciden comprar un bien o producto. Si se hace en una tienda física, regularmente hay un vendedor o cajero que realiza el cierre de la venta con la transacción de pago, para lo cual usará el escáner de códigos de barras para registrar los artículos objeto de venta, y así el sistema los identificará. Cuando se trata de tiendas en línea, el cliente selecciona los productos y accede al dar clic en el botón de pagar.
           
           .row(numero="2" titulo="Sistema de punto de venta").p-4
@@ -138,7 +138,7 @@
 
     .row.justify-content-center.mt-5
       .col-lg-10
-        .cajon.color-cajon-1.p-4
+        .cajon.color-cajon-3.p-4
           p A su vez, los usuarios también pueden identificar la ubicación de la empresa, conforme a los productos que estén demandando, lo que implica un ejercicio de doble beneficio, pues ayuda a las empresas y a los clientes a concordar para realizar transacciones comerciales.
 
     .row.justify-content-center

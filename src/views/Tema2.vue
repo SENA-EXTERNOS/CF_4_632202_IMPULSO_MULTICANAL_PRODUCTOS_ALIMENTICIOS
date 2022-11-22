@@ -67,6 +67,9 @@
           span #[em Estructura de gestión omnicanal de una empresa]
         figure
           img(src='@/assets/curso/temas/tema2/t2-5.svg', alt='Texto que describa la imagen').mb-0 
+    
+    .row.justify-content-center
+      .col-lg-8
         p.parrafo-color.text-white.p-5.mt-0 La empresa define los canales y los articula, de tal manera que todos manejen las mismas alternativas y condiciones comerciales, gestionándolas en sincronía y cambiando su forma.
 
     .row.justify-content-center.mt-5

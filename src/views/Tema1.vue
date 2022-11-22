@@ -183,10 +183,10 @@
       .col-lg-5.mb-5.mb-lg-0.mt-3
         img(src='@/assets/curso/temas/tema1/t1-12.svg', alt='Texto que describa la imagen')
 
-      .row.justify-content-around.aling-items-center.mt-2
+      .row.justify-content-around.aling-items-center.mt-5
         p Clasificación de distribución y comercialización
 
-        TabsA.color-acento-contenido
+        TabsA.color-acento-contenido.mt-3
           .tarjeta.color-acento-contenido--borde.p-3(style="background-color:#fef1de" titulo="Canales directos")
             .row.justify-content-center.p-3
               p Es cuando la empresa tiene establecido un departamento o una unidad operativa que coordina con el área comercial directamente las ventas, y se encarga de entregar los productos a los clientes o consumidores. Esto le garantiza a la empresa contar con áreas de almacenamiento de productos y con una flota de transportes para hacer las entregas.
