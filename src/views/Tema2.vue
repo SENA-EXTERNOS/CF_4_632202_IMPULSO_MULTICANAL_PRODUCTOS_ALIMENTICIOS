@@ -16,7 +16,7 @@
     .row.justify-content-center.mt-5
       .col-lg-9
         .cajon.color-cajon-1.p-4
-          p Lo que se busca entonces es complementar el ejercicio de distribución, promoción y comercialización en general, desarrollando nuevas funcionalidades, como que los distribuidores, en función de la demanda y los hábitos de consumo, tuviesen los productos listos en sus flotas de transporte, y que por medio de los canales digitales se concreten las ventas, haciendo un reporte más dinámico y rápido, lo cual implica el uso de diversos canales dentro de un mismo tipo. En ese supuesto, el canal digital podría ser la página #[em web], pero también una #[em app] para dispositivos móviles.
+          p Lo que se busca entonces es complementar el ejercicio de distribución, promoción y comercialización en general, desarrollando nuevas funcionalidades, como que los distribuidores, en función de la demanda y los hábitos de consumo, tuviesen los productos listos en sus flotas de transporte, y que por medio de los canales digitales se concreten las ventas, haciendo un reporte más dinámico y rápido, lo cual implica el uso de diversos canales dentro de un mismo tipo. En ese supuesto, el canal digital podría ser la página web, pero también una #[em app] para dispositivos móviles.
 
     .row.justify-content-center.mt-5
       p Esto es lo que se denomina estrategia de comunicación y ventas o #[em marketing]. A partir de esta concepción surgen nuevos conceptos sobre cómo gestionar los canales, siendo el multicanal, el omnicanal y el canal cruzado las nuevas formas de gestión de canales de distribución, iniciativas de gestión que tendrán como propósito favorecer el impulso de los productos y la imagen de marca de la empresa de alimentos.
@@ -31,11 +31,11 @@
     separador
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.1. Multicanal
+      h2.mt-3 2.1 Multicanal
 
     .row.justify-content-center.mt-5
       .col-lg-7
-        p Se da cuando una empresa, para el desarrollo de sus actividades comerciales y de ventas, utiliza varios canales de distribución de forma independiente y diferenciada, con esquemas de contratación individuales, buscando dar cubrimiento a ciertos sectores, regiones o locaciones sin que exista una relación directa entre ellos. Son actores independientes al servicio de comercialización de los mismos productos, pero no trabajan mancomunadamente por sus asignaciones en regiones diferentes, de espectros o de tipos diferentes (redes, #[em web, app], etc.). Esto representa para la empresa un aumento en paralelo: aumenta las oportunidades de ventas y alcance al público, además de mantener la fidelidad de los clientes, favoreciendo el crecimiento productivo de la empresa.
+        p Se da cuando una empresa, para el desarrollo de sus actividades comerciales y de ventas, utiliza varios canales de distribución de forma independiente y diferenciada, con esquemas de contratación individuales, buscando dar cubrimiento a ciertos sectores, regiones o locaciones sin que exista una relación directa entre ellos. Son actores independientes al servicio de comercialización de los mismos productos, pero no trabajan mancomunadamente por sus asignaciones en regiones diferentes, de espectros o de tipos diferentes (redes, web, #[em app], etc.). Esto representa para la empresa un aumento en paralelo: aumenta las oportunidades de ventas y alcance al público, además de mantener la fidelidad de los clientes, favoreciendo el crecimiento productivo de la empresa.
       .col-lg-5
         img(src='@/assets/curso/temas/tema2/t2-3.svg', alt='Texto que describa la imagen')      
 
@@ -47,7 +47,7 @@
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 2.2. Omnicanal
+      h2.mt-3 2.2 Omnicanal
 
     .row.justify-content-center.mt-5
       .col-lg-5

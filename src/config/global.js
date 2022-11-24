@@ -4,7 +4,7 @@ export default {
       'Canales de venta, disposición de productos para clientes',
     descripcionCurso:
       'En este componente formativo se desarrollarán los aspectos relacionados con el concepto de canales de distribución, sus características, cobertura y extensión geográfica. Se tratarán aspectos relacionados con las estrategias de multicanal y sus características, además de conceptos como multicanal y omnicanal, las estrategias de comunicación diferenciadas y la promoción de los puntos de venta.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -14,6 +14,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-princiapal.svg'),
       },
     ],
   },

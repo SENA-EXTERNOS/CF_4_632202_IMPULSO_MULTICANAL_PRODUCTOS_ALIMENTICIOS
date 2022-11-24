@@ -40,7 +40,7 @@
     separador
 
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-down")
-      h2.mt-3 4.1. Objetivos de la promoción
+      h2.mt-3 4.1 Objetivos de la promoción
 
     .row.justify-content-center.mt-5
       p Si bien la promoción busca la vinculación intensiva de los clientes con el producto y sus marcas, la empresa, desde el punto de vista estratégico, debe establecer una serie de objetivos, los cuales se pueden clasificar de la siguiente manera:
@@ -50,7 +50,7 @@
     separador
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-down")
-      h2.mt-3 4.2. Efectividad de la promoción
+      h2.mt-3 4.2 Efectividad de la promoción
 
     .row.justify-content-center
       .bloque-texto-g.color-acento-contenido.p-2.p-sm-4.p-md-5

@@ -48,7 +48,7 @@
     separador
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.1. Importancia de los canales de distribución
+      h2.mt-3 1.1 Importancia de los canales de distribución
 
     .row.justify-content-center.mt-5
       .col-lg-2
@@ -95,7 +95,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.2. Funciones de los canales de distribución  
+      h2.mt-3 1.2 Funciones de los canales de distribución  
 
     .row.justify-content-center.mt-5(data-aos="fade-right")
       .col-lg-5
@@ -150,7 +150,7 @@
     separador
 
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.3. Clasificación de los canales
+      h2.mt-3 1.3 Clasificación de los canales
 
 
     .row.justify-content-center
@@ -168,7 +168,7 @@
     separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 1.4. Canales de distribución y comercialización según el proceso de venta
+      h2.mt-3 1.4 Canales de distribución y comercialización según el proceso de venta
 
     .row
       .col-lg-7.mb-5.mb-lg-0.my-3
@@ -226,7 +226,7 @@
                     img(src='@/assets/curso/temas/tema1/t1-15.svg', alt='Texto que describa la imagen')
 
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-5 1.5. Canales de distribución y comercialización según la tecnología para la venta
+      h2.mt-5 1.5 Canales de distribución y comercialización según la tecnología para la venta
 
     .row.mt-5
       .video
@@ -236,7 +236,7 @@
     separador
 
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-5 1.6. Canales de distribución y comercialización según el tipo de soporte para la venta 
+      h2.mt-5 1.6 Canales de distribución y comercialización según el tipo de soporte para la venta 
 
     .row.justify-content-center.mt-5
       .col-lg-2

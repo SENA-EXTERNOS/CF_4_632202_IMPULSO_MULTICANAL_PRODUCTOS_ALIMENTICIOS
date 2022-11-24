@@ -33,7 +33,7 @@
     separador
 
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-3 3.1. Tipos de punto de venta
+      h2.mt-3 3.1 Tipos de punto de venta
 
     .row.justify-content-center.mt-5
       .col-lg-2
@@ -82,7 +82,7 @@
     separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2.mt-3 3.2. Funcionamiento de un punto de venta
+      h2.mt-3 3.2 Funcionamiento de un punto de venta
 
     .row.justify-content-center.mt-5
       .col-lg-2
@@ -127,7 +127,7 @@
     separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-up")
-      h2.mt-3 3.3. Geolocalización
+      h2.mt-3 3.3 Geolocalización
 
     .row.justify-content-center
       .col-lg-10
