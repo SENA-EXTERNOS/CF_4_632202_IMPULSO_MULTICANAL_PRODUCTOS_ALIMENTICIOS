@@ -7,16 +7,15 @@
         span 1
       h1 Canales de distribución
       
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-lg-2
         img(src='@/assets/curso/temas/tema1/t1-1.svg', alt='Texto que describa la imagen')
       .col-lg-10
-        p Un canal de comercialización/venta es un medio físico o digital a través del cual se vinculan y promueven los productos, bienes o servicios a los consumidores, permitiendo una comunicación entre la empresa, los clientes y demás prospectos. Por lo anterior, los canales sirven para facilitar ventas, pero también pueden ser un medio de divulgación, publicidad y promoción del portafolio de productos o el servicio que ofrece la empresa.
+        p Para empezar, se debe conocer que es un canal de comercialización, también conocido como venta es un medio físico o digital a través del cual se vinculan y promueven los productos, bienes o servicios a los consumidores, permitiendo una comunicación entre la empresa, los clientes y demás prospectos. Por lo anterior, los canales sirven para facilitar ventas, a su vez pueden ser un medio de divulgación, publicidad y promoción del portafolio de productos o el servicio que ofrece la empresa.
 
-    .row.justify-content-center
-      p.mt-5 Toda empresa que obtiene, fabrica o elabora un bien producto o servicio, regularmente inicia sus operaciones de venta desde los recursos que dispone para la comercialización, poniendo además sus esfuerzos logísticos asociados, encontrando con el tiempo que su éxito y logros se ven menguados o limitados y no crece en ventas, por más esfuerzos que se realicen, lo que la motiva a realizar múltiples iniciativas tácticas que solo generan incrementos mínimos en las ventas. Posteriormente, a partir de un análisis estratégico, se da cuenta de que, debido a las limitaciones estructurales y dinámicas, la actividad comercial está estancada.
-      p.text-center.mt-3 A continuación, se explicarán las limitaciones estructurales y dinámicas en una actividad comercial:
-
+    p Toda empresa que obtiene, fabrica o elabora un bien producto o servicio, regularmente inicia sus operaciones de venta desde los recursos que dispone para la comercialización, poniendo además sus esfuerzos logísticos asociados, encontrando con el tiempo que su éxito y logros se ven menguados o limitados y no crece en ventas, por más esfuerzos que se realicen, lo que la motiva a realizar múltiples iniciativas tácticas que solo generan incrementos mínimos en las ventas. Posteriormente, a partir de un análisis estratégico, se da cuenta de que, debido a las limitaciones estructurales y dinámicas, la actividad comercial está estancada.
+    
+    p.text-center Visualice, las limitaciones estructurales y dinámicas en una actividad comercial:
     
     SlyderA(tipo="b").px-5.py-3.mb-5
       .row.justify-content-around.align-items-center.my-3.slyder-margin1
@@ -50,11 +49,11 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.mt-3 1.1 Importancia de los canales de distribución
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-lg-2
         img(src='@/assets/curso/temas/tema1/t1-5.svg', alt='Texto que describa la imagen')
       .col-lg-10
-        p Los canales de distribución no solo se ocupan de tratar de definir, establecer, desarrollar un mercado o aumentar el posicionamiento del producto a través de las ventas, sino también de estructurar nuevos medios para que los productos alimenticios se den a conocer, lleguen de manera efectiva a los consumidores o clientes finales y consoliden nuevos compradores potenciales.
+        p No solo se ocupan de tratar de definir, establecer, desarrollar un mercado o aumentar el posicionamiento del producto a través de las ventas, sino también de estructurar nuevos medios para que los productos alimenticios se den a conocer, lleguen de manera efectiva a los consumidores o clientes finales y consoliden nuevos compradores potenciales.
 
     .row
       .col-lg-7.mb-5.mb-lg-0
@@ -80,11 +79,12 @@
             p.alineacion-text1.text-bold (Cruz Roche, 2012).
             i.fas.fa-quote-right
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 2.
-          span #[em Relación de la empresa fabricante de alimentos y sus posibles distribuidores]
+          h5 Figura 1
+          br
+          em Relación de la empresa fabricante de alimentos y sus posibles distribuidores
         figure
           img(src='@/assets/curso/temas/tema1/t1-7.svg', alt='Texto que describa la imagen')
 
@@ -97,12 +97,12 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.mt-3 1.2 Funciones de los canales de distribución  
 
-    .row.justify-content-center.mt-5(data-aos="fade-right")
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-5
         img(src='@/assets/curso/temas/tema1/t1-8.svg', alt='Texto que describa la imagen')
       .col-lg-7
-        p.mt-4 Los canales de comercialización y venta permiten la concentración de actividades por parte de la empresa que obtiene o fabrica los productos, esto implica, no solo la movilidad de los valores agregados de los bienes y productos por parte de los distribuidores, sino también la participación activa de la empresa y los distribuidores, en funciones que deben desarrollar de manera complementaria, con el fin de facilitar su propio trabajo y procurar el mejoramiento e innovación en los productos o servicios que ofrecen.
-      p.mt-5.text-center A continuación, se presenta la clasificación de los canales de distribución:
+        p.mt-4 Permiten la concentración de actividades por parte de la empresa que obtiene o fabrica los productos, esto implica, no solo la movilidad de los valores agregados de los bienes y productos por parte de los distribuidores, sino también la participación activa de la empresa y los distribuidores, en funciones que deben desarrollar de manera complementaria, con el fin de facilitar su propio trabajo y procurar el mejoramiento e innovación en los productos o servicios que ofrecen.
+      p.mb-5.text-center Los canales de distribución, se presentan de la siguiente manera:
 
     .row.justify-content-center
       .col-lg-7.mt-3
@@ -152,16 +152,19 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.mt-3 1.3 Clasificación de los canales
 
-
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-11
         .bloque-texto-g.color-acento-botones.p-2.p-sm-4.p-md-5
           .blq1.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/t1-10.svg')})`}")
           .blq1.bloque-texto-g__texto.p-4
-            p El concepto de canales de distribución no solo se ocupa de definir, establecer y desarrollar un mercado, o de aumentar el posicionamiento del producto a través de las ventas, sino también de estructurar nuevos medios para que los productos alimenticios se den a conocer y lleguen de manera efectiva a los consumidores o clientes finales, consolidando, a su vez, nuevos compradores potenciales.
+            p El concepto de canales de distribución no solo se ocupa de definir, establecer y desarrollar un mercado, o de aumentar el posicionamiento del producto a través de las ventas, sino también de estructurar nuevos medios para que los productos alimenticios se den a conocer y lleguen de manera efectiva a los consumidores o clientes finales, consolidando, a su vez, nuevos compradores potenciales son allí donde cobra importancia la clasificación de estos canales.
 
-    .row.justify-content-center.mt-5
-      p.text-center La clasificación de los canales se presenta a través del siguiente esquema:
+    .row.justify-content-center.mb-5
+      p.text-center Explore el esquema y verifique cómo se realiza la clasificación de los canales:
+      .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+        h5 Figura 2
+        br
+        em Clasificación de los canales
       .col-auto.mt-2
         img(src='@/assets/curso/temas/tema1/t1-11.svg', alt='Texto que describa la imagen')
 
@@ -170,7 +173,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2.mt-3 1.4 Canales de distribución y comercialización según el proceso de venta
 
-    .row
+    .row.mb-5
       .col-lg-7.mb-5.mb-lg-0.my-3
         hr.linea.mb-0
         .b3.bloque-texto-b.color-secundario1.p-3
@@ -178,73 +181,71 @@
             i.fas.fa-quote-left
             p.mb-0 La clasificación de distribución y comercialización se refiere a la cadena de abastecimiento que se establece para atender un mercado local, regional y nacional; su complejidad en muchas ocasiones depende de la capacidad que tiene la fábrica de atender a sus clientes y diversos distribuidores, o solo se concentra en unos pocos.
             br
-            p.alineacion-text2.text-bold (de Juan Vigaray, 2010).
+            p.alineacion-text2.text-bold (Juan Vigaray, 2010).
             i.fas.fa-quote-right
       .col-lg-5.mb-5.mb-lg-0.mt-3
         img(src='@/assets/curso/temas/tema1/t1-12.svg', alt='Texto que describa la imagen')
 
-      .row.justify-content-around.aling-items-center.mt-5
-        p Clasificación de distribución y comercialización
+    .row.justify-content-around.aling-items-center.mb-5
+      p Así se realiza la clasificación de distribución y comercialización.
 
-        TabsA.color-acento-contenido.mt-3
-          .tarjeta.color-acento-contenido--borde.p-3(style="background-color:#fef1de" titulo="Canales directos")
-            .row.justify-content-center.p-3
-              p Es cuando la empresa tiene establecido un departamento o una unidad operativa que coordina con el área comercial directamente las ventas, y se encarga de entregar los productos a los clientes o consumidores. Esto le garantiza a la empresa contar con áreas de almacenamiento de productos y con una flota de transportes para hacer las entregas.
-              .col-xl-9
-                .titulo-sexto.color-acento-contenido.mb-2
-                  h5 Figura.
-                  span #[em Proceso comercial y flujo de información en canal directo]
-                .row.justify-content-center
-                  .col-lg-6
-                    figure
-                      img(src='@/assets/curso/temas/tema1/t1-13.svg', alt='Texto que describa la imagen')
-          
-          .tarjeta.color-acento-contenido--borde.p-3(style="background-color:#fef1de" titulo="Canales indirectos cortos")
-            .row.justify-content-center.p-3
-              p Son aquellos canales que se constituyen regularmente por tres actores o partes: la empresa de alimentos, el distribuidor minorista o detallista y los clientes o consumidores finales. En este tipo de canales la responsabilidad de hacer una buena oferta está centrada en ambas partes, quienes se encargan de suplir las necesidades de los mercados que atienden, que pueden ser varios, por ejemplo, tiendas de barrio y restaurantes.
-              .col-xl-9
-                .titulo-sexto.color-acento-contenido.mb-2
-                  h5 Figura.
-                  span #[em Proceso comercial y flujo de información en canal indirecto corto]
-                .row.justify-content-center
-                  .col-lg-8
-                    figure
-                      img(src='@/assets/curso/temas/tema1/t1-14.svg', alt='Texto que describa la imagen')
-
-          .tarjeta.color-acento-contenido--borde.p-3(style="background-color:#fef1de" titulo="Canales indirectos largos")
-            .row.justify-content-center.p-3
-              p Son aquellos canales en los cuales participan más de tres actores o partes en el proceso de venta y comercialización de los productos. Puede existir un agente representante general, mayoristas, minoristas o detallistas, y los clientes o consumidores finales.
-              p La responsabilidad de la oferta debe ser muy bien administrada por parte de la empresa y de cada uno de los distribuidores, siendo el empresario quien decide qué tipo de productos se entregan a cada distribuidor, de acuerdo a su naturaleza; por ejemplo, hay ciertas presentaciones que se destinan a tiendas de barrio, pero otras solo se destinan a grandes superficies y mayoristas.
-              p En este escenario, la participación de actores implica un aumento de la estructura global de costos del producto, pues a cada nivel de distribuidores que participen se les debe asignar un porcentaje de utilidad, lo cual se contrasta con el servicio prestado por dichos intermediarios; estos, a su vez, aportan un aumento en la disposición del producto para el cliente o consumidor, favoreciendo así la oferta unificada y concentrada de los productos del portafolio.
-              .col-xl-8
-                .titulo-sexto.color-acento-contenido.mb-2
-                  h5 Figura.
-                  span #[em Proceso comercial y flujo de información en canal indirecto largo]
-              .row.justify-content-center.mt-2
-                .col-lg-10
+      TabsA.color-acento-contenido.mt-3
+        .tarjeta.color-acento-contenido--borde.p-3(style="background-color:#fef1de" titulo="Canales directos")
+          .row.justify-content-center.p-3
+            p Es cuando la empresa tiene establecido un departamento o una unidad operativa que coordina con el área comercial directamente las ventas, y se encarga de entregar los productos a los clientes o consumidores. Esto le garantiza a la empresa contar con áreas de almacenamiento de productos y con una flota de transportes para hacer las entregas.
+            .col-xl-9
+              h4.text-center Proceso comercial y flujo de información en canal directo]
+              .row.justify-content-center
+                .col-lg-6
                   figure
-                    img(src='@/assets/curso/temas/tema1/t1-15.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/t1-13.svg', alt='Texto que describa la imagen')
+          
+        .tarjeta.color-acento-contenido--borde.p-3(style="background-color:#fef1de" titulo="Canales indirectos cortos")
+          .row.justify-content-center.p-3
+            p Son aquellos canales que se constituyen regularmente por tres actores o partes: la empresa de alimentos, el distribuidor minorista o detallista y los clientes o consumidores finales. En este tipo de canales la responsabilidad de hacer una buena oferta está centrada en ambas partes, quienes se encargan de suplir las necesidades de los mercados que atienden, que pueden ser varios, por ejemplo, tiendas de barrio y restaurantes.
+            .col-xl-9
+              .titulo-sexto.color-acento-contenido.mb-2
+                h5 Figura.
+                span #[em Proceso comercial y flujo de información en canal indirecto corto]
+              .row.justify-content-center
+                .col-lg-8
+                  figure
+                    img(src='@/assets/curso/temas/tema1/t1-14.svg', alt='Texto que describa la imagen')
 
-    #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-5 1.5 Canales de distribución y comercialización según la tecnología para la venta
+        .tarjeta.color-acento-contenido--borde.p-3(style="background-color:#fef1de" titulo="Canales indirectos largos")
+          .row.justify-content-center.p-3
+            p Son aquellos canales en los cuales participan más de tres actores o partes en el proceso de venta y comercialización de los productos. Puede existir un agente representante general, mayoristas, minoristas o detallistas, y los clientes o consumidores finales.
+            p La responsabilidad de la oferta debe ser muy bien administrada por parte de la empresa y de cada uno de los distribuidores, siendo el empresario quien decide qué tipo de productos se entregan a cada distribuidor, de acuerdo a su naturaleza; por ejemplo, hay ciertas presentaciones que se destinan a tiendas de barrio, pero otras solo se destinan a grandes superficies y mayoristas.
+            p En este escenario, la participación de actores implica un aumento de la estructura global de costos del producto, pues a cada nivel de distribuidores que participen se les debe asignar un porcentaje de utilidad, lo cual se contrasta con el servicio prestado por dichos intermediarios; estos, a su vez, aportan un aumento en la disposición del producto para el cliente o consumidor, favoreciendo así la oferta unificada y concentrada de los productos del portafolio.
+            .col-xl-8
+              .titulo-sexto.color-acento-contenido.mb-2
+                h5 Figura.
+                span #[em Proceso comercial y flujo de información en canal indirecto largo]
+            .row.justify-content-center.mt-2
+              .col-lg-10
+                figure
+                  img(src='@/assets/curso/temas/tema1/t1-15.svg', alt='Texto que describa la imagen')
 
-    .row.mt-5
+    h3.titulo-tercero(data-aos='fade-right') Canales de distribución y comercialización según la tecnología para la venta
+
+    p La comercialización de productos cuenta con diversos canales alternativos, con el fin de vincular más rápida y fácilmente con el comprador, se pueden identificar l canales de distribución, los cuales varían según la aplicación tecnológica.
+
+    .row.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption VIDEO   
 
     separador
 
-    #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2.mt-5 1.6 Canales de distribución y comercialización según el tipo de soporte para la venta 
+    h3.titulo-tercero(data-aos='fade-right') Canales de distribución y comercialización según el tipo de soporte para la venta
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-lg-2
         img(src='@/assets/curso/temas/tema1/t1-16.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p.mt-3 En esta clasificación se tiene en cuenta la personalización de las relaciones con los clientes, la automatización y la capacidad de comunicación, y en general, las preferencias de los distribuidores detallistas y de los clientes consumidores finales (Edix, 2022). Con base en estos criterios se establecen dos grandes grupos:
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mb-5
       .col-lg-7
         p #[strong Canales #[em offline] o de distribución soportada en la gestión física:] depende de los recursos estructurales y puntos propios, son las relaciones comerciales que se desarrollan dentro de los esquemas tradicionales, donde las ventas se realizan cara a cara.
         p #[strong Canales #[em online] o de venta y promoción digital:] Son todos los actores que participan y realizan las transacciones por medio del uso de Internet; en este caso se busca la interacción con el cliente de manera impersonal y asincrónica, es decir, no se requiere diálogo directo, personal, ni que el cliente y la empresa interactúen simultáneamente, gracias a la automatización. La ventaja de estos tipos de canales radica en que son muy ágiles y permiten recoger mucha información de los clientes, frecuencias, medios de pago, preferencias, ubicaciones, etc. 

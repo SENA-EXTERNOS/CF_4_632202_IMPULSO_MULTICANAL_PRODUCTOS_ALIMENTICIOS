@@ -17,9 +17,10 @@
     .row.justify-content-center.mt-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 5.
-          span #[em Características de las promociones]
-      .col-auto  
+          h5 Figura 4
+          br
+          em Características de las promociones
+
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
@@ -62,9 +63,14 @@
     .row.justify-content-center.mt-5
       p.mt-4.text-center Escenarios donde es recomendable realizar promociones.
       .col-lg-8.mt-3
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 5
+          br
+          em Promociones
         img(src='@/assets/curso/temas/tema4/t4-5.svg', alt='', style='')
 
-
+    .cajon.color-acento-contenido.p-4
+      p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

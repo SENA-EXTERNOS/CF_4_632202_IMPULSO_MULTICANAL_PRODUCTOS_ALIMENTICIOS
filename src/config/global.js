@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Canales de venta, disposición de productos para clientes',
     descripcionCurso:
-      'En este componente formativo se desarrollarán los aspectos relacionados con el concepto de canales de distribución, sus características, cobertura y extensión geográfica. Se tratarán aspectos relacionados con las estrategias de multicanal y sus características, además de conceptos como multicanal y omnicanal, las estrategias de comunicación diferenciadas y la promoción de los puntos de venta.',
+      'Los aspectos relacionados con el concepto de canales de distribución, sus características, cobertura y extensión geográfica, serán desarrollados, a su vez aspectos relacionados con las estrategias de multicanal y sus características, además de conceptos como multicanal y omnicanal, las estrategias de comunicación diferenciadas y la promoción de los puntos de venta.',
 
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -65,20 +65,6 @@ export default {
             titulo:
               'Canales de distribución y comercialización según el proceso de venta',
             hash: 't_1_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo:
-              'Canales de distribución y comercialización según la tecnología para la venta',
-            hash: 't_1_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo:
-              'Canales de distribución y comercialización según el tipo de soporte para la venta',
-            hash: 't_1_6',
           },
         ],
       },
@@ -201,17 +187,17 @@ export default {
   },
   complementario: [
     {
-      tema: 'Canales de Distribución y procesos de ventas',
+      tema: 'Clasificación de los canales',
       referencia:
-        'Asturias, Corporación Universitaria. (s.f.) <em> Distribución Comercial y Ventas.</em> Pág. 06- 13.',
+        'Asturias Corporación Universitaria. (s.f.). Distribución Comercial y Ventas. ',
       tipo: 'Artículo',
       link:
         'https://www.centro-virtual.com/recursos/biblioteca/pdf/fundamentos_mercadeo_pmd/unidad3_pdf2.pdf',
     },
     {
-      tema: 'Análisis para tomar decisiones sobre canales de venta',
+      tema: 'Clasificación de los canales ',
       referencia:
-        'La Distribución (s.f.), <em>Distribución: canales, logística y punto de venta.</em> Pág. 34-38',
+        'Manual de Facilitadores de Procesos de Innovación Comercial. (s.f.). Distribución: canales, logística y punto de venta. ',
       tipo: 'Artículo',
       link:
         'https://inta.gob.ar/sites/default/files/8-distribucion-canales-logistica.pdf',
@@ -219,14 +205,15 @@ export default {
     {
       tema: 'Logística de la distribución de alimentos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). <em>Logística de la distribución de alimentos.</em> [Archivo de video]. YouTube. ',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Logística de la distribución de alimentos (video). YouTube.',
       tipo: 'Vídeo',
       link: 'https://youtu.be/vR4nPjSUB0w',
     },
     {
-      tema: 'Canales digitales',
+      tema:
+        'Canales de distribución y comercialización según la tecnología para la venta',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2022). <em>Canales digitales</em> [Archivo de video]. YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Canales digitales (video). YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/1TSWuFLZ79E',
     },
@@ -291,49 +278,49 @@ export default {
   referencias: [
     {
       referencia:
-        'Acosta, A. L. (2018). <em>Canales de Distribución.</em> Bogotá: Fondo editorial Areandino - Fundación Universitaria del Área Andina. Obtenido de ',
+        'Acosta, A. L. (2018). Canales de Distribución. Fondo editorial Areandino - Fundación Universitaria del Área Andina.',
       link: 'https://core.ac.uk/download/pdf/326423549.pdf',
     },
     {
       referencia:
-        'Beltrán López, G. (2015). <em>GEOLOCALIZACIÓN Y REDES SOCIALES- Un mundo social, local y móvil.</em> Obtenido de',
+        'Beltrán López, G. (2015). GEOLOCALIZACIÓN Y REDES SOCIALES- Un mundo social, local y móvil.',
       link:
         'https://gersonbeltran.com/wp-content/uploads/2018/04/Geolocalizacio%CC%81n-y-Redes-Sociales-un-mundo-social-local-y-mo%CC%81vil.pdf',
     },
     {
       referencia:
-        'Calvo, H. E. (2015). <em>Alimentando los sentidos.</em> Zaragoza: Universidad de Zaragoza. Obtenido de',
+        'Calvo, H. E. (2015). Alimentando los sentidos. Universidad de Zaragoza.',
       link:
         'https://ucc.unizar.es/sites/ucc.unizar.es/files/enziende_materialdidactico_alimentando_web.pdf',
     },
     {
       referencia:
-        'Cruz Roche, I. (2013). <em>Canales de distribución.</em> Especial Referencia a los productos de alimentación. Pirámide. Obtenido de',
+        'Cruz Roche, I. (2013). Canales de distribución. Especial Referencia a los productos de alimentación. Pirámide.',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/48995?page=6',
     },
     {
       referencia:
-        'de Juan Vigaray, M. D. (2010). <em>COMERCIALIZACIÓN Y RETAILING- DISTRIBUCIÓN COMERCIAL APLICADA.</em> Madrid: PEARSON. Obtenido de',
+        'de Juan Vigaray, M. D. (2010). COMERCIALIZACIÓN Y RETAILING- DISTRIBUCIÓN COMERCIAL APLICADA. Pearson.',
       link:
         'https://www.ecotec.edu.ec/material/material_2016F1_MKT360_11_63978.pdf',
     },
     {
       referencia:
-        'Edix. (2022). <em>Canales de venta: vender más y mejor.</em> Edix- Grupo Proeduca. Obtenido de',
+        'Edix. (2022). Canales de venta: vender más y mejor. Edix- Grupo Proeduca.',
       link: 'https://www.edix.com/es/revolucion-profesional/',
     },
     {
       referencia:
-        'Iciar Astiasarán, A., & Hernández, A. M. (2013). ALIMENTOS- Composición y Propiedades. Madrid, España: McGraw-Hill. Obtenido de',
+        'Iciar Astiasarán, A., & Hernández, A. M. (2013). ALIMENTOS- Composición y Propiedades. McGraw-Hill.',
       link:
         'https://fisiogenomica.com/assets/Blog/pdf/Alimentos-Composicion-y-Propiedades.pdf',
     },
     {
       referencia:
-        'Paz, H. R. (2010). <em>Canales de Distribución: gestión comercial y logística.</em> Buenos Aires, Argentina: Lectorum- Ugerman. Obtenido de',
+        'Paz, H. R. (2010). Canales de Distribución: gestión comercial y logística. Lectorum- Ugerman.',
       link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/76765?page=6',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/76765?page=6    ',
     },
   ],
   creditos: {

@@ -28,6 +28,10 @@
 
     .row.justify-content-center.mt-2
       .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 3
+          br
+          em Funciones de puntos de venta
         img(src='@/assets/curso/temas/tema3/t3-2.svg', alt='Texto que describa la imagen')
 
     separador
@@ -153,11 +157,7 @@
             i.fas.fa-quote-right
 
     .row.justify-content-center.mt-5
-      .col-lg-8
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 4.
-          span #[em Uso de la geolocalización para que las tiendas ubiquen al cliente y para que los clientes ubiquen el producto o la empresa]
-      .col-auto  
+      .col-lg-8.col-md-10
         figure
           img(src='@/assets/curso/temas/tema3/t3-10.png', alt='Texto que describa la imagen')
 

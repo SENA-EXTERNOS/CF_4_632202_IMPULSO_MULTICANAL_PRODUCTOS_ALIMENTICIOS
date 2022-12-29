@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p La gestión comercial de productos alimenticios exige cada vez más a las empresas que se concentren en su actividad, buscando garantizar su calidad e idoneidad en el suministro a los mercados donde operan, por lo cual el crecimiento y expansión se basa en delegar ahora la distribución de los productos a terceros, empresas o personas especializadas en este ejercicio, lo que en consecuencia hará que las empresas aumenten su productividad.
-    p.mb-5 En el siguiente esquema se presenta como se organizan los canales de distribución y ventas:
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5
