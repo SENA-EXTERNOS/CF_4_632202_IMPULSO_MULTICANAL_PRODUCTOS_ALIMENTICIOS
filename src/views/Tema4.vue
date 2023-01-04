@@ -7,7 +7,7 @@
         span 4
       h1 Promoción
 
-    .row.justify-content-center.mt-5
+    .row.justify-content-center.mt-5.mb-3
       .col-lg-2
         img(src='@/assets/curso/temas/tema4/t4-1.svg', alt='Texto que describa la imagen')
       .col-lg-10
@@ -16,10 +16,7 @@
 
     .row.justify-content-center.mt-5
       .col-lg-8
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 4
-          br
-          em Características de las promociones
+
 
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
@@ -64,7 +61,7 @@
       p.mt-4.text-center Escenarios donde es recomendable realizar promociones.
       .col-lg-8.mt-3
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 5
+          h5 Figura 4
           br
           em Promociones
         img(src='@/assets/curso/temas/tema4/t4-5.svg', alt='', style='')
