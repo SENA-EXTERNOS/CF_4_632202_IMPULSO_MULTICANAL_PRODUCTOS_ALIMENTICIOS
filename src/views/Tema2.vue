@@ -62,9 +62,6 @@
 
     .row.justify-content-center.mt-5
       .col-lg-7
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 3.
-          span #[em Estructura de gestión omnicanal de una empresa]
         figure
           img(src='@/assets/curso/temas/tema2/t2-5.svg', alt='Texto que describa la imagen').mb-0 
     

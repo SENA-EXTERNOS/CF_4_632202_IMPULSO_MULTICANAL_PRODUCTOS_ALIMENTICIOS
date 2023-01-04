@@ -194,7 +194,7 @@
           .row.justify-content-center.p-3
             p Es cuando la empresa tiene establecido un departamento o una unidad operativa que coordina con el área comercial directamente las ventas, y se encarga de entregar los productos a los clientes o consumidores. Esto le garantiza a la empresa contar con áreas de almacenamiento de productos y con una flota de transportes para hacer las entregas.
             .col-xl-9
-              h4.text-center Proceso comercial y flujo de información en canal directo]
+              h4.text-center Proceso comercial y flujo de información en canal directo
               .row.justify-content-center
                 .col-lg-6
                   figure
@@ -204,9 +204,7 @@
           .row.justify-content-center.p-3
             p Son aquellos canales que se constituyen regularmente por tres actores o partes: la empresa de alimentos, el distribuidor minorista o detallista y los clientes o consumidores finales. En este tipo de canales la responsabilidad de hacer una buena oferta está centrada en ambas partes, quienes se encargan de suplir las necesidades de los mercados que atienden, que pueden ser varios, por ejemplo, tiendas de barrio y restaurantes.
             .col-xl-9
-              .titulo-sexto.color-acento-contenido.mb-2
-                h5 Figura.
-                span #[em Proceso comercial y flujo de información en canal indirecto corto]
+              h5 #[em Proceso comercial y flujo de información en canal indirecto corto]
               .row.justify-content-center
                 .col-lg-8
                   figure
@@ -218,9 +216,7 @@
             p La responsabilidad de la oferta debe ser muy bien administrada por parte de la empresa y de cada uno de los distribuidores, siendo el empresario quien decide qué tipo de productos se entregan a cada distribuidor, de acuerdo a su naturaleza; por ejemplo, hay ciertas presentaciones que se destinan a tiendas de barrio, pero otras solo se destinan a grandes superficies y mayoristas.
             p En este escenario, la participación de actores implica un aumento de la estructura global de costos del producto, pues a cada nivel de distribuidores que participen se les debe asignar un porcentaje de utilidad, lo cual se contrasta con el servicio prestado por dichos intermediarios; estos, a su vez, aportan un aumento en la disposición del producto para el cliente o consumidor, favoreciendo así la oferta unificada y concentrada de los productos del portafolio.
             .col-xl-8
-              .titulo-sexto.color-acento-contenido.mb-2
-                h5 Figura.
-                span #[em Proceso comercial y flujo de información en canal indirecto largo]
+                h5  #[em Proceso comercial y flujo de información en canal indirecto largo]
             .row.justify-content-center.mt-2
               .col-lg-10
                 figure

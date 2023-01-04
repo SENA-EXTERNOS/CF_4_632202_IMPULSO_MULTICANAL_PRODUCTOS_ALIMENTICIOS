@@ -221,7 +221,7 @@
     .row.justify-content-center.mt-5
       .col-lg-10
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/watch?v=z-rEIdSFkqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/z-rEIdSFkqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         br
         figcaption Fuente: Ecosistema de Recursos Educativos Digitales - SENA- https://youtu.be/z-rEIdSFkqo        
 
