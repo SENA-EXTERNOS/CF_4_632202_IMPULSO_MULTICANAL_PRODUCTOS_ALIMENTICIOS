@@ -81,7 +81,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small El Anexo 1 - Iniciativas estratégicas multicanal y omnicanal y el Material complementario - Estrategias de distribución, los cuales amplían los conceptos tratados en este componente y tratan aspectos relacionados, como la clasificación de los distribuidores mayoristas, entre otros. 
+                  p El Anexo 1 - Iniciativas estratégicas multicanal y omnicanal y el Material complementario - Estrategias de distribución, los cuales amplían los conceptos tratados en este componente y tratan aspectos relacionados, como la clasificación de los distribuidores mayoristas, entre otros. 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1-Iniciativas_estrategicas_multicanal_y_omnicanal.pdf')" target="_blank")
                     span Descargar

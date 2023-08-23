@@ -44,7 +44,7 @@
         img(src='@/assets/curso/temas/tema3/t3-3.svg', alt='Texto que describa la imagen')
       .col-lg-10
         p Los puntos de venta obedecen a los diferentes canales directos que puede tener la empresa para el impulso de sus productos, ya sean estos físicos o digitales, los cuales se pueden clasificar de la siguiente manera:
-      P.text-center.mt-5 A continuación se presenta la clasificación de los puntos de venta y sus canales directos (físicos y digitales):
+      P.text-center.mt-5 A continuación, se presenta la clasificación de los puntos de venta y sus canales directos (físicos y digitales):
 
     .row.justify-content-center.mb-4.mt-3
       .col-lg-4
@@ -122,9 +122,9 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Sistemas de punto de venta (POS)
-                  p.text-small Para ampliar aspectos relacionados con los sistemas de puntos de venta, se recomienda ver el Anexo 3 - Sistemas de punto de venta (POS), donde podrá encontrar los componentes de un sistema típico, las funciones del #[em software], entre otros aspectos.
+                  p Para ampliar aspectos relacionados con los sistemas de puntos de venta, se recomienda ver el Anexo 2 - Sistemas de punto de venta (POS), donde podrá encontrar los componentes de un sistema típico, las funciones del #[em software], entre otros aspectos.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo3-Sistemas_de_Punto_de_Venta_POS.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo2-Sistemas_de_Punto_de_Venta_POS.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -138,7 +138,7 @@
         .bloque-texto-g.color-acento-botones.p-2.p-sm-4.p-md-5
           .blq1.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/t3-9.svg')})`}")
           .bloque-texto-g__texto.p-4
-            p.text-small La geolocalización es la ubicación física o lugar definido por coordenadas de una empresa o producto, en un espectro geográfico específico, donde estas coordenadas obedecen a un criterio tecnológico para la ubicación por satélite desde el espacio, o por las convencionales redes telefónicas. Esto permite que operadores de búsqueda como Google o los negocios #[em online] identifiquen quiénes están cerca o dentro de un área de influencia de la empresa; se puede saber qué tipos de personas están cerca y con qué características, para así hacerles llegar las campañas promocionales o de existencia de nuevos productos (publicidad) que se direccionan a dichos clientes, de conformidad con sus características poblacionales.
+            p La geolocalización es la ubicación física o lugar definido por coordenadas de una empresa o producto, en un espectro geográfico específico, donde estas coordenadas obedecen a un criterio tecnológico para la ubicación por satélite desde el espacio, o por las convencionales redes telefónicas. Esto permite que operadores de búsqueda como Google o los negocios #[em online] identifiquen quiénes están cerca o dentro de un área de influencia de la empresa; se puede saber qué tipos de personas están cerca y con qué características, para así hacerles llegar las campañas promocionales o de existencia de nuevos productos (publicidad) que se direccionan a dichos clientes, de conformidad con sus características poblacionales.
 
     .row.justify-content-center.mt-5
       .col-lg-10
@@ -170,9 +170,9 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Se recomienda al aprendiz complementar el tema de la geolocalización, una estrategia de impulso de productos y de otros beneficios de posicionamiento para la marca de los productos, leyendo el Anexo 2 - ¿Qué es la geolocalización?
+                  p Se recomienda al aprendiz complementar el tema de la geolocalización, una estrategia de impulso de productos y de otros beneficios de posicionamiento para la marca de los productos, leyendo el Anexo 3 - ¿Qué es la geolocalización?
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo2-Que_es_la_geolocalizacion.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo3-Que_es_la_geolocalizacion.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 

@@ -3,7 +3,10 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+    p La gestión comercial de productos alimenticios exige cada vez más a las empresas que se concentren en su actividad, buscando garantizar la calidad e idoneidad del suministro a los mercados donde operan, por lo cual el crecimiento y expansión se basa en delegar la distribución de los productos a terceros, empresas o personas especializadas en este ejercicio, lo que en consecuencia hará que las empresas aumenten su productividad. 
+      br
+      br
+      |El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo
 
     .row.justify-content-center
       .col-lg-10.mb-5

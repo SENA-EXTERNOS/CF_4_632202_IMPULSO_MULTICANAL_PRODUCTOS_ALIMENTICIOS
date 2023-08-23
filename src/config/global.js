@@ -200,7 +200,7 @@ export default {
         'Manual de Facilitadores de Procesos de Innovación Comercial. (s.f.). Distribución: canales, logística y punto de venta. ',
       tipo: 'Artículo',
       link:
-        'https://inta.gob.ar/sites/default/files/8-distribucion-canales-logistica.pdf',
+        'https://repositorio.iica.int/bitstream/handle/11324/3153/BVE17089159e.pdf?sequence=10',
     },
     {
       tema: 'Logística de la distribución de alimentos',
@@ -291,7 +291,7 @@ export default {
       referencia:
         'Calvo, H. E. (2015). Alimentando los sentidos. Universidad de Zaragoza.',
       link:
-        'https://ucc.unizar.es/sites/ucc.unizar.es/files/enziende_materialdidactico_alimentando_web.pdf',
+        'https://ucc.unizar.es/taller-de-guion-y-produccion-del-documental-cientifico/alimentando-los-sentidos',
     },
     {
       referencia:
@@ -302,13 +302,12 @@ export default {
     {
       referencia:
         'de Juan Vigaray, M. D. (2010). COMERCIALIZACIÓN Y RETAILING- DISTRIBUCIÓN COMERCIAL APLICADA. Pearson.',
-      link:
-        'https://www.ecotec.edu.ec/material/material_2016F1_MKT360_11_63978.pdf',
+      link: '',
     },
     {
       referencia:
         'Edix. (2022). Canales de venta: vender más y mejor. Edix- Grupo Proeduca.',
-      link: 'https://www.edix.com/es/revolucion-profesional/',
+      link: 'https://blog.hubspot.es/sales/canales-de-venta',
     },
     {
       referencia:
