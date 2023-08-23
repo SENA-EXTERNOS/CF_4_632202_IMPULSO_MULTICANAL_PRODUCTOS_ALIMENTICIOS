@@ -306,7 +306,7 @@ export default {
     },
     {
       referencia:
-        'Edix. (2022). Canales de venta: vender más y mejor. Edix- Grupo Proeduca.',
+        'David Torres. (2022). Canales de venta: qué son, sus tipos, cómo gestionarlos y ejemplos. Hubspot.',
       link: 'https://blog.hubspot.es/sales/canales-de-venta',
     },
     {
