@@ -199,8 +199,7 @@ export default {
       referencia:
         'Manual de Facilitadores de Procesos de Innovación Comercial. (s.f.). Distribución: canales, logística y punto de venta. ',
       tipo: 'Artículo',
-      link:
-        'https://repositorio.iica.int/bitstream/handle/11324/3153/BVE17089159e.pdf?sequence=10',
+      link: 'https://www.redinnovagro.in/docs/BVE17089159e.pdf',
     },
     {
       tema: 'Logística de la distribución de alimentos',

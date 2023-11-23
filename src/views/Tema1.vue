@@ -155,7 +155,7 @@
         .bloque-texto-g.color-acento-botones.p-2.p-sm-4.p-md-5
           .blq1.bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/t1-10.svg')})`}")
           .blq1.bloque-texto-g__texto.p-4
-            p El concepto de canales de distribución no solo se ocupa de definir, establecer y desarrollar un mercado, o de aumentar el posicionamiento del producto a través de las ventas, sino también de estructurar nuevos medios para que los productos alimenticios se den a conocer y lleguen de manera efectiva a los consumidores o clientes finales, consolidando, a su vez, nuevos compradores potenciales es allí donde cobra importancia la clasificación de estos canales.
+            p El concepto de canales de distribución no solo se ocupa de definir, establecer y desarrollar un mercado, o de aumentar el posicionamiento del producto a través de las ventas, sino también de estructurar nuevos medios para que los productos alimenticios se den a conocer y lleguen de manera efectiva a los consumidores o clientes finales, consolidando, a su vez, nuevos compradores potenciales, es allí donde cobra importancia la clasificación de estos canales.
 
     .row.justify-content-center.mb-5
       p.text-center Explore el esquema y verifique cómo se realiza la clasificación de los canales:
